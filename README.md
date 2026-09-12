@@ -50,10 +50,10 @@ Tools and Technologies
 •	MITRE ATT&CK Framework: Threat-actor and technique analysis 
 •	MXToolbox :Supporting domain and infrastructure analysis 
 •	URLScan: URL and web validation 
-•	PhishTank — Phishing validation 
-•	WHOIS — Domain metadata collection 
-•	OSINT Framework — Supporting OSINT resource 
-•	Exploit-DB Google Hacking Database — Supporting search reconnaissance resource 
+•	PhishTank: Phishing validation 
+•	WHOIS:  Domain metadata collection 
+•	OSINT Framework:  Supporting OSINT resource 
+•	Exploit-DB Google Hacking Database: Supporting search reconnaissance resource 
 
 (**Configuration Steps**)
 1.	Defined the intelligence requirements and established ZEIT / zeit.de as the primary investigation scope. 
